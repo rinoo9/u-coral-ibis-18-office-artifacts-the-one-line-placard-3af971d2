@@ -6,7 +6,7 @@
 
 Entry for the make.fun bounty **Office Artifacts: The One-Line Placard Contest**: one line, at most 180 characters, labelling an ordinary office object as an ancient artifact — a dry-witted museum placard for the stapler that served the Accounts department for a decade.
 
-> Stapler, c. 1997. Painted steel, coiled spring. Gift of Accounts. Stapled ten years of quarterly reports into submission; now rests, jaws agape, awaiting papers that never come.
+> Desk plant, c. 2021. Plastic, faintly dusty. Gift of Facilities. Survived three reorganisations and one flood; outlived every manager.
 
 Run it: `python3 main.py`
 
