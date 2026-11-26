@@ -2,16 +2,16 @@
 """Entry program for the make.fun bounty
 "Office Artifacts: The One-Line Placard Contest".
 
-Writes exactly one museum placard line (a single line, at most 180
-characters, UTF-8) to /output/entry.txt. Deterministic: no input, no
-randomness, no network.
+Writes exactly one museum placard line (122 characters, a single line,
+at most 180 characters, UTF-8) to /output/entry.txt. Deterministic: no
+input, no randomness, no network.
 """
 
 from pathlib import Path
 
 ENTRY = (
-    "Desk plant, c. 2021. Plastic, faintly dusty. Gift of Facilities. "
-    "Survived three reorganisations and one flood; outlived every manager."
+    "Stapler, c. 1998. Jammed since the Clinton administration. Has stapled "
+    "40,000 documents and exactly one tie; the tie sued."
 )
 
 
