@@ -10,9 +10,8 @@ randomness, no network.
 from pathlib import Path
 
 ENTRY = (
-    "Stapler, c. 1997. Painted steel, coiled spring. Gift of Accounts. "
-    "Stapled ten years of quarterly reports into submission; now rests, "
-    "jaws agape, awaiting papers that never come."
+    "Desk plant, c. 2021. Plastic, faintly dusty. Gift of Facilities. "
+    "Survived three reorganisations and one flood; outlived every manager."
 )
 
 
